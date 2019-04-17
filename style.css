@@ -1,0 +1,54 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family:arial;font-size:14px;line-height:18px;background:#ECE9D8;color:#333;}
+.templete{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+
+.headersection{}
+.header{background:#333333;height:80px; }
+.headerleft{width:450px;color:#fff;float:left;}
+.headerleft h2{font-size:40px;line-height:65px;padding-left:50px;}
+.headerright{float:right;color:#fff;width:510px;padding-top:28px;}
+.headerright a{color:#fff;text-decoration:none;font-size:18px;font-weight:bold;}
+.headerright a:hover,#active{color:#00ADEF;}
+
+.mainsection{background:#ffffff}
+.slogansection{margin:30px 50px 0px;border-bottom:2px dotted #a8a8a8;padding-bottom:28px;}
+.slogansection h2{font-size:45px;line-height:58px;color:#000;}
+.slogansection h3{font-size:35px;line-height:35px;color:#a8a8a8;}
+
+.description {margin:28px 50px 50px;padding-bottom:30px; font-size:26px;line-height:30px;color:#666;border-bottom:2px dotted #a8a8a8;}
+.description p{}
+
+.contentsection{margin-bottom:20px;padding-bottom:20px;}
+.service{background:#00ADEF;box-shadow: 8px 7px 0 0 #cfcfcf;width:212px;padding:20px;margin-left:50px;float:left;}
+.service h2{color:#fff;border-bottom:1px dotted #fff;padding-bottom:15px;margin-bottom:15px;font-size:28px;text-align:center;}
+.service p{color:#fff;font-size:16px;line-height:22px;text-align:center;}
+
+.readmore{background:#0076a4;text-align:center;padding:10px;margin-top:20px;}
+.readmore a{color:#ddd;text-decoration:none;font-size:15px;font-weight:bold;text-transform:uppercase;}
+.readmore a:hover{}
+
+.mainbottom{margin:30px 50px 20px;border-top:2px dotted #cccccc;border-bottom:2px dotted #cccccc;padding-top:30px;padding-bottom:30px;}
+
+.clientsection{width:398px;float:left;border-right:2px dotted #ccc;padding-right:30px;margin-right:30px;}
+.clientsection h2{font-size:25px;color:#666;line-height:30px;}
+
+.testimonial{margin-top:20px;}
+.clientimage{float:left;width:80px;margin-right:20px;}
+.clientimage img{height:80px;width:80px;}
+
+.clientdesc{float:left;width:298px;}
+.clientdesc p{color:#666;}
+.clientdesc a{text-decoration:none;color:#00adef;}
+.clientname{font-weight:bold;margin-top:8px;}
+
+.projectsection{width:400px;float:right;}
+.projectsection h2{font-size:25px;color:#666;line-height:30px;}
+.projectsection h3{color:#999;margin-bottom:8px;margin-top:5px;}
+
+.projectsection img{width:398px;height:165px;border:1px solid #ddd;border-radius:3px;margin-bottom:5px;}
+.projectsection p{color:#666;margin-bottom:10px;}
+.projectsection a{text-decoration:none;color:#00adef;font-size:16px;}
+
+.footersection{background:#FFFFFF;}
+.footersection p{margin-left:50px;margin-bottom:20px;color:#999;}
